@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deffa Ndiaye
-- 👀 I’m interested in ...
+- 👀 I’m interested in all about Data
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science / BI
 - 📫 How to reach me deffandiaye3@gmail.com
